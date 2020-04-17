@@ -1,6 +1,6 @@
 # react-admin-lte-3.0.4
 
-ReactJS version of the original AdminLTE dashboard. This project consists of widgets, charts and other components written in ReactJS. Stylesheets are borrowed from the AdminLTE project.
+ReactJS version of the original AdminLTE basic dashboard.
 
 ## Instructions to run
 
